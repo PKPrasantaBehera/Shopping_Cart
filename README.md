@@ -31,7 +31,7 @@ OR follow gitbash commands
 10. open any browser and type http://localhost/shopping_carts
 
 ## If you like my project hit a star button
-# live linl: shoppingcart12.infinityfreeapp.com
+# live linl: [shoppingcart12.infinityfreeapp.com](http://shoppingcart12.infinityfreeapp.com/)
 # Some Preview
 <div align="center">
   <h3>Home Page</h3>
